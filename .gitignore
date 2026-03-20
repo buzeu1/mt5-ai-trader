@@ -3,13 +3,6 @@
 #  Doar README.md este public
 # ============================================================
 
-# Poze / imagini
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
-*.webp
 
 # Expert Advisor MT5 — cod sursa si compilat
 EA/AITrader.mq5

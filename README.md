@@ -52,28 +52,28 @@ Once started, the bot:
 ### AI Server — real-time response
 The terminal shows the bot receiving data from all symbols and returning the AI decision (BUY/SELL) for each instrument:
 
-![Server CMD](POZADINCMD.png)
+![Server CMD](screenshots/server_cmd.png)
 
 ---
 
 ### Bot automatically opens trades simultaneously
 Immediately after launch, the bot analyzes the market and executes positions on all configured instruments:
 
-![Bot start](POZACANDEEPUSINFUNCTIUNE.jpg)
+![Bot start](screenshots/bot_start.jpg)
 
 ---
 
 ### MT5 Journal — real-time execution
 MT5 displays in real time every action of the bot: what signal it received, what lot it calculated, where it placed SL/TP:
 
-![MT5 Journal](POZA1.jpg)
+![MT5 Journal](screenshots/mt5_journal.jpg)
 
 ---
 
 ### Results after the market moved
 Same positions opened automatically, after the trend confirmed — **+553.91 USD profit**:
 
-![Profit](POZA2DUPACEEPUSINFUNCTIUNE.jpg)
+![Profit](screenshots/profit.jpg)
 
 ---
 
@@ -169,28 +169,28 @@ Odata pornit, botul:
 ### Serverul AI — raspuns in timp real
 Terminalul arata botul cum primeste date de pe toate simbolurile si returneaza decizia AI (BUY/SELL) pentru fiecare instrument in parte:
 
-![Server CMD](POZADINCMD.png)
+![Server CMD](screenshots/server_cmd.png)
 
 ---
 
 ### Botul deschide automat tranzactii simultan
 Imediat dupa pornire, botul analizeaza piata si executa pozitii pe toate instrumentele configurate:
 
-![Pornire bot](POZACANDEEPUSINFUNCTIUNE.jpg)
+![Pornire bot](screenshots/bot_start.jpg)
 
 ---
 
 ### Jurnalul MT5 — executie in timp real
 MT5 afiseaza in timp real fiecare actiune a botului: ce semnal a primit, ce lot a calculat, unde a pus SL/TP:
 
-![Jurnal MT5](POZA1.jpg)
+![Jurnal MT5](screenshots/mt5_journal.jpg)
 
 ---
 
 ### Rezultate dupa ce piata s-a miscat
 Aceleasi pozitii deschise automat, dupa ce trendul s-a confirmat — **+553.91 USD profit**:
 
-![Profit](POZA2DUPACEEPUSINFUNCTIUNE.jpg)
+![Profit](screenshots/profit.jpg)
 
 ---
 
