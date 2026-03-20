@@ -1,0 +1,77 @@
+# ============================================================
+#  AITrader — tot codul sursa este privat
+#  Doar README.md este public
+# ============================================================
+
+# Poze / imagini
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+
+# Expert Advisor MT5 — cod sursa si compilat
+EA/AITrader.mq5
+EA/AITrader.ex5
+
+# Server Python
+server/server.py
+server/config.json
+server/requirements.txt
+
+# Orice fisier .mq5 sau .ex5
+*.mq5
+*.ex5
+
+# Orice fisier Python
+*.py
+
+# Config si secrete
+config.json
+*.env
+.env
+*.key
+*.secret
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# IDE / editor
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# ngrok config
+ngrok.yml
+*.ngrok.yml
